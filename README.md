@@ -86,7 +86,9 @@ Commands
 If you’re not satisfied with the selected model, you can either switch to a different one or add new models by creating a custom file. Adjust as needed, following the guidance on [Code Search API Docs](https://codesearch.pages.dev).
 
 ### Steps to Change or Add a Model ✏️
+
 1. **To Change the Model** 🔄: Update the model configuration in the existing setup.
+
 2. **To Add a New Model** ➕: Create a new file and add your desired model configuration.
 
 Feel free to experiment and find the best model for your needs! 🚀
@@ -97,8 +99,8 @@ We welcome your contributions! If you have ideas to enhance Response By Ai, feel
 
 ### 📞 Support
 
-Telegram Support Group: Join the community on [Asuraa Support](https://t.me/AsuraaSupports).
-Creator's Profile: Connect with the creator on Telegram: [@itzAsuraa](https://t.me/itzAsuraa).
+Telegram Support Group: Join the community on [Silicon Support](https://t.me/Silicon_Botz).
+Creator's Profile: Connect with the creator on Telegram: [Silicon Official](https://t.me/Silicon_Official).
 
 ### 📜 License
 
